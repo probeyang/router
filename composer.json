@@ -7,6 +7,6 @@
 	},
 	
 	"autoload": {
-		"psr-4": {"probeyang\\router\\": ""}
+		"psr-4": {"Probeyang\\Router\\": ""}
 	}
 }
